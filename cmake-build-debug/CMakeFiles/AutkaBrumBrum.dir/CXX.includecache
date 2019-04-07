@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kuba/Documents/Dev/F1_Cars_C++/Car.cpp
+Car.h
+C:/Users/Kuba/Documents/Dev/F1_Cars_C++/Car.h
+thread
+-
+iostream
+-
+
+C:/Users/Kuba/Documents/Dev/F1_Cars_C++/Car.h
+thread
+-
+
+C:/Users/Kuba/Documents/Dev/F1_Cars_C++/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+Car.h
+C:/Users/Kuba/Documents/Dev/F1_Cars_C++/Car.h
+vector
+-
+thread
+-
+conio.h
+-
+
